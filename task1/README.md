@@ -24,6 +24,14 @@ Run:
 java com.atmmachine.MainClass
 
 ## Screenshots
+# Screenshot 1
+![Output 1](./screenshots/osib1.jpg.png)
+
+# Screenshot 2
+![Output 2](./screenshots/osib2.jpg.png)
+
+# Screenshot 3
+![Output 3](./screenshots/osib3.jpg.png)
 
 
 ## Author
